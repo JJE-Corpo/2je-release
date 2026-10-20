@@ -1,0 +1,18 @@
+{
+  "id": "r-type",
+  "version": "v2026.10.20-efada77",
+  "platforms": {
+    "linux-x86_64": {
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.10.20-efada77/r-type-linux-x86_64.zip",
+      "sha256": "9a3f9b5df99cea7c7e5ba60fa656d501cbf886d9301b930736ea1e82e105a7b2",
+      "size": 414650396,
+      "run": "r-type/r-type_client"
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.10.20-efada77/r-type-windows-x86_64.zip",
+      "sha256": "3742169fc49a43c0ee306f752e33d13da7a78b43e1283037ea7fd8e30208dbd4",
+      "size": 414246743,
+      "run": "r-type/r-type_client.exe"
+    }
+  }
+}
