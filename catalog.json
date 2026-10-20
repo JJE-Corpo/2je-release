@@ -1,0 +1,1 @@
+{ "games": [ { "id": "r-type", "name": "R-Type", "manifest": "games/r-type.json" } ] }
