@@ -1,18 +1,36 @@
 {
   "id": "r-type",
-  "version": "v2026.10.20-dc68fac",
+  "version": "v2026.10.27-cda3542",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.10.20-dc68fac/r-type-linux-x86_64.zip",
-      "sha256": "a810ae2a29734771b33af4991eba458c0a4f8b2edcc7bb0e32467b515df9e298",
-      "size": 414649401,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.10.27-cda3542/r-type-linux-x86_64.zip",
+      "sha256": "49e677130a1c1202724f6d4ffea16b1a915c24ea9f329bfa84acf8111a4b427f",
+      "size": 427250807,
       "run": "r-type/r-type_client"
     },
     "windows-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.10.20-dc68fac/r-type-windows-x86_64.zip",
-      "sha256": "cf5799750f5ef89fe011adb9b8ea71ac9389c83fd91062d924a0da128a4516a3",
-      "size": 414246740,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.10.27-cda3542/r-type-windows-x86_64.zip",
+      "sha256": "b57acf132093e6c5916d5157a6e6a2519b280514fd5a5056e1a67890e78ebc1c",
+      "size": 426605637,
       "run": "r-type/r-type_client.exe"
     }
-  }
+  },
+  "notes": [
+    {
+      "title": "Six new stages, 1-5 to 1-10.",
+      "text": "The convoy, the station deck, the moon and the Dobkeratops at the end of sector 1."
+    },
+    {
+      "title": "The databank.",
+      "text": "Enemies you scan and destroy fill files you claim for Bydo Cells."
+    },
+    {
+      "title": "Charge the Wave Cannon",
+      "text": "by holding fire, and release to shoot."
+    },
+    {
+      "title": "A new sector 1 soundtrack",
+      "text": "and a sound for every shot."
+    }
+  ]
 }
