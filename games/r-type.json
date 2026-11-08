@@ -1,17 +1,17 @@
 {
   "id": "r-type",
-  "version": "v2026.11.08-a0e5092",
+  "version": "v2026.11.08-3be91f2",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.08-a0e5092/r-type-linux-x86_64.zip",
-      "sha256": "eef596d4d2a35c0f8055fba736fe3f233266bb84cd69fcf0b2873f850307b5b0",
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.08-3be91f2/r-type-linux-x86_64.zip",
+      "sha256": "a86fec1a1e02faf276a63a008befc1143b72f5de84cd181a33fdf67d1e4eb906",
       "size": 539053018,
       "run": "r-type/r-type_client"
     },
     "windows-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.08-a0e5092/r-type-windows-x86_64.zip",
-      "sha256": "c3bd1bab55430e048e49aa3ffa0f535af488c4fbc873afbce7f956aa60e8af15",
-      "size": 537942623,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.08-3be91f2/r-type-windows-x86_64.zip",
+      "sha256": "a56ea0ee5a5209e956bcd903dc26e51761098ddc809bfa373112324daf596dc2",
+      "size": 537942624,
       "run": "r-type/r-type_client.exe"
     }
   },
