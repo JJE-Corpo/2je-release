@@ -1,32 +1,24 @@
 {
   "id": "r-type",
-  "version": "v2026.11.09.1",
+  "version": "v2026.11.09.2",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.1/r-type-linux-x86_64.zip",
-      "sha256": "5016719ebf9126fab210dcd90f4dfc26b70496888b95d8ecdb71b0f171d859d0",
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.2/r-type-linux-x86_64.zip",
+      "sha256": "f476eec0d40afa8bc4e2452ece6e3edf3ea5c922fbd9fb1b835aac5744b3f759",
       "size": 539056997,
       "run": "r-type/r-type_client"
     },
     "windows-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.1/r-type-windows-x86_64.zip",
-      "sha256": "8181f3864d1a607bb06d85e67efce6a4e72accf9b87542f322dea29393eb83c2",
-      "size": 537944300,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.2/r-type-windows-x86_64.zip",
+      "sha256": "970ebf56184ef07305c1875fcaa7c09629ff644a29227e80591974c83d19f21b",
+      "size": 537944303,
       "run": "r-type/r-type_client.exe"
     }
   },
   "notes": [
     {
-      "title": "Smoother online play.",
-      "text": "The game no longer looks the server's address up for every packet it sends, which held frames up and delayed your inputs since the server moved online."
-    },
-    {
-      "title": "A download page",
-      "text": "for the launcher, at 2je.jules4real.eu."
-    },
-    {
-      "title": "Every update has its own version and patch notes.",
-      "text": "Two updates on the same day no longer share a name."
+      "title": "A lighter launcher.",
+      "text": "It now uses less than half the CPU on the library page, and next to none while you play or when it's behind other windows."
     }
   ]
 }
