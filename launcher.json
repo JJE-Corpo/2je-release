@@ -1,17 +1,17 @@
 {
   "id": "2je-launcher",
-  "version": "v2026.11.09.1",
+  "version": "v2026.11.09.2",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.1/2je-launcher-linux-x86_64.zip",
-      "sha256": "7818d43724a05ede38053e025c0a80d1b179fa8f303b953db5f1b5c93c89bd9f",
-      "size": 4119731,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.2/2je-launcher-linux-x86_64.zip",
+      "sha256": "f7258aa92f3e9a5f520b6b185ed168247c883e7a3e04f278ddece9e8733b3126",
+      "size": 4131019,
       "run": "2je-launcher/2je_launcher"
     },
     "windows-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.1/2je-launcher-windows-x86_64.zip",
-      "sha256": "1d363cdf30178144b0d5540189333500275647f07230a1ecc1237f5bcaf15982",
-      "size": 3975800,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.2/2je-launcher-windows-x86_64.zip",
+      "sha256": "0c6ba5592f0b9070241c5dc3412bd883779a33181e239c06a34081826ccaf72b",
+      "size": 3980517,
       "run": "2je-launcher/2je_launcher.exe"
     }
   }
