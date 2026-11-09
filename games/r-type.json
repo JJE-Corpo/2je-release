@@ -1,36 +1,32 @@
 {
   "id": "r-type",
-  "version": "v2026.11.08-3be91f2",
+  "version": "v2026.11.09.1",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.08-3be91f2/r-type-linux-x86_64.zip",
-      "sha256": "a86fec1a1e02faf276a63a008befc1143b72f5de84cd181a33fdf67d1e4eb906",
-      "size": 539053018,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.1/r-type-linux-x86_64.zip",
+      "sha256": "5016719ebf9126fab210dcd90f4dfc26b70496888b95d8ecdb71b0f171d859d0",
+      "size": 539056997,
       "run": "r-type/r-type_client"
     },
     "windows-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.08-3be91f2/r-type-windows-x86_64.zip",
-      "sha256": "a56ea0ee5a5209e956bcd903dc26e51761098ddc809bfa373112324daf596dc2",
-      "size": 537942624,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.1/r-type-windows-x86_64.zip",
+      "sha256": "8181f3864d1a607bb06d85e67efce6a4e72accf9b87542f322dea29393eb83c2",
+      "size": 537944300,
       "run": "r-type/r-type_client.exe"
     }
   },
   "notes": [
     {
-      "title": "Six new stages, 1-5 to 1-10.",
-      "text": "The convoy, the station deck, the moon and the Dobkeratops at the end of sector 1."
+      "title": "Smoother online play.",
+      "text": "The game no longer looks the server's address up for every packet it sends, which held frames up and delayed your inputs since the server moved online."
     },
     {
-      "title": "The databank.",
-      "text": "Enemies you scan and destroy fill files you claim for Bydo Cells."
+      "title": "A download page",
+      "text": "for the launcher, at 2je.jules4real.eu."
     },
     {
-      "title": "Charge the Wave Cannon",
-      "text": "by holding fire, and release to shoot."
-    },
-    {
-      "title": "A new sector 1 soundtrack",
-      "text": "and a sound for every shot."
+      "title": "Every update has its own version and patch notes.",
+      "text": "Two updates on the same day no longer share a name."
     }
   ]
 }
