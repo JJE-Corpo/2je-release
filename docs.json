@@ -1,0 +1,12 @@
+{
+  "id": "2je-docs",
+  "version": "docs-7198f4de5950",
+  "platforms": {
+    "linux-x86_64": {
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/docs-7198f4de5950/2je-docs.zip",
+      "sha256": "ee53ea957d2fc2d131a255d5d1d68476d0c0fe6a56648ba3eedb23d4e816f9e0",
+      "size": 635746,
+      "run": "2je-docs/index.html"
+    }
+  }
+}
