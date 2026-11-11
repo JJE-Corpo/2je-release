@@ -1,11 +1,11 @@
 {
   "id": "2je-docs",
-  "version": "docs-f5274e0f2618",
+  "version": "docs-3946de85404a",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/docs-f5274e0f2618/2je-docs.zip",
-      "sha256": "79719e8c53658393692f374be6f6f94809d36bc421d56f56668c755bd94fea70",
-      "size": 23706167,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/docs-3946de85404a/2je-docs.zip",
+      "sha256": "d3ae16efab3cd0f0e62a76253ac9201b951b198060c4e65f5bd0081b54993a8f",
+      "size": 23708643,
       "run": "2je-docs/index.html"
     }
   }
