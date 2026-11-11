@@ -8,11 +8,7 @@
       "logo": "games/r-type/logo.png",
       "layers": ["games/r-type/stars.jpg", "games/r-type/earth.png", "games/r-type/ship.png"],
       "loop": "games/r-type/loop.mpg",
-      "tagline": "Side-scrolling shooter. A ten-stage story through sector 1, or endless coop for up to four.",
-      "modes": [
-        {"id": "story", "name": "Story", "detail": "solo"},
-        {"id": "endless", "name": "Endless", "detail": "coop, up to 4"}
-      ]
+      "tagline": "Side-scrolling shooter. A ten-stage story through sector 1, or endless coop for up to four."
     }
   ]
 }
