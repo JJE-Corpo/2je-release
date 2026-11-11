@@ -1,21 +1,25 @@
 {
   "id": "r-type",
-  "version": "v2026.11.11.2",
+  "version": "v2026.11.11.3",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.11.2/r-type-linux-x86_64.zip",
-      "sha256": "bde9a5fea020a202320825dd9a1e469ec9197293595874dc8013a011a5e76446",
-      "size": 536839671,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.11.3/r-type-linux-x86_64.zip",
+      "sha256": "333145d3f67375a00a00d25a67062def456e3e10f23737be3f0ffce7fcc29c63",
+      "size": 542685301,
       "run": "r-type/r-type_client"
     },
     "windows-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.11.2/r-type-windows-x86_64.zip",
-      "sha256": "a496f42871a568ed7eb37e9ac01a801909bc4d6ac87f0464eab56e9ad7a05ee2",
-      "size": 541453649,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.11.3/r-type-windows-x86_64.zip",
+      "sha256": "22811b265cdcd84c65f9409b0be9202f1e60b06161ff2972091cb2fb9673b494",
+      "size": 541453654,
       "run": "r-type/r-type_client.exe"
     }
   },
   "notes": [
+    {
+      "title": "The launcher and the game start again on Linux.",
+      "text": "The previous update left out files the Linux launcher and game need, so neither started. If your launcher no longer opens, download it again from the download page: this time the update brings everything."
+    },
     {
       "title": "The game opens on its main menu.",
       "text": "Launched from the launcher, the game now waits on the main menu instead of jumping to the play screen by itself. Joining a friend's lobby from the launcher still takes you straight there."
