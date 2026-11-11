@@ -1,28 +1,32 @@
 {
   "id": "r-type",
-  "version": "v2026.11.09.3",
+  "version": "v2026.11.11.1",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.3/r-type-linux-x86_64.zip",
-      "sha256": "32cf0e611212807552aa0f21b4418285a8178f797f6caebd16898e1fecd56796",
-      "size": 539085194,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.11.1/r-type-linux-x86_64.zip",
+      "sha256": "348eab9b0078142ef1611a1f6e7f23055892bfaef7dd392bb7c42edebd2ed644",
+      "size": 542001596,
       "run": "r-type/r-type_client"
     },
     "windows-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.09.3/r-type-windows-x86_64.zip",
-      "sha256": "05087b184eadcad83d850ec539629770a62ba26f1c835b5ff354b37f8561467f",
-      "size": 537964260,
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.11.1/r-type-windows-x86_64.zip",
+      "sha256": "837c0f652f30e3652aab32537c8488ddf2955f99a6f46c01823a075eadaedc52",
+      "size": 540875721,
       "run": "r-type/r-type_client.exe"
     }
   },
   "notes": [
     {
-      "title": "Your ship answers at once.",
-      "text": "It moves the moment you press a key, instead of waiting for the server's answer."
+      "title": "New accessibility options.",
+      "text": "In Options, Accessibility: rings around enemy shots so you never rely on their color, auto fire (hold fire only to charge the Wave Cannon), and reduced screen effects without the beat glitch, flicker and glitchy transitions."
     },
     {
-      "title": "Smoother online play.",
-      "text": "Enemies, shots and other ships move evenly even when the connection is uneven, and your shots leave right from your cannon."
+      "title": "Sector 8 has its own music.",
+      "text": "The Bydo Homeworld now plays a soundtrack of its own instead of sector 1's."
+    },
+    {
+      "title": "A simpler launcher.",
+      "text": "The Story and Endless choice is gone from the launcher: pick your mode in the game itself."
     }
   ]
 }
