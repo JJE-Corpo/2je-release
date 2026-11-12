@@ -1,10 +1,10 @@
 {
   "id": "2je-site",
-  "version": "v2026.11.11.4",
+  "version": "v2026.11.12.1",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.11.4/2je-site.zip",
-      "sha256": "8afcc657009ea07d9885dde24a8eab2050913a79c156cc200b631a9cd2fec619",
+      "url": "https://github.com/JJE-Corpo/2je-release/releases/download/r-type-v2026.11.12.1/2je-site.zip",
+      "sha256": "1a43f3bc756a2c0f8850d0c8f28fc72b52d302e68c39fc4c4686fb0df64fc997",
       "size": 1371780,
       "run": "2je-site/index.html"
     }
